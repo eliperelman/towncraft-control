@@ -1,0 +1,50 @@
+{
+	"towncraft": {
+		"port": 25565,
+		"memory": {
+			"initial": "1G",
+			"max": "4G"
+		},
+		"jarfileLocation": "/home/minecraft/craftbukkit152.jar"
+	},
+	"lobby": {
+		"port": 25566,
+		"memory": {
+			"initial": "2G",
+			"max": "4G"
+		},
+		"jarfileLocation": "/home/minecraft2/craftbukkit152.jar"
+	},
+	"creative": {
+		"port": 25568,
+		"memory": {
+			"initial": "1G",
+			"max": "4G"
+		},
+		"jarfileLocation": "/home/minecraft3/craftbukkit152.jar"
+	},
+	"survival": {
+		"port": 25569,
+		"memory": {
+			"initial": "2G",
+			"max": "2G"
+		},
+		"jarfileLocation": "/home/minecraft4/craftbukkit152.jar"
+	},
+	"pvp": {
+		"port": 25570,
+		"memory": {
+			"initial": "1G",
+			"max": "4G"
+		},
+		"jarfileLocation": "/home/minecraft5/craftbukkit152.jar"
+	},
+	"mcmmo": {
+		"port": 25571,
+		"memory": {
+			"initial": "1G",
+			"max": "3G"
+		},
+		"jarfileLocation": "/home/minecraft6/craftbukkit152.jar"
+	}
+}
